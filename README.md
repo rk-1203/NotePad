@@ -5,7 +5,7 @@
 </p>
 
 
-# Features
+## Features
 - Opening a new or existing file
 - Saving a file with save and save as option
 - Find text
